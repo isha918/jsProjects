@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 :root{
-    --transition: all 0.3s ease;
+    --transition: all 0.1s ease;
     
 }
 * {
@@ -151,7 +151,8 @@ input[type=number] {
 
 .square__number-text{
     transition: var(--transition);
-    width: 80%;
     margin: auto;
     font-size: 1.5rem;
 }
+
+/* -============================= */
