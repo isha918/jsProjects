@@ -20,7 +20,7 @@ body {
 
 .card {
   display: flex;
-  height: 214px;
+  height: 200px;
   width: 200px;
   background-color: #151b29;
   border-radius: 10px;
@@ -51,14 +51,14 @@ body {
   color: white;
   font-weight: 300;
   position: absolute;
-  left: 20px;
+  left: 10px;
   top: 15px;
 }
 
 .bar {
   position: absolute;
-  top: 63px;
-  left: 20px;
+  top: 48px;
+  left: 10px;
   height: 5px;
   width: 90px;
 }
@@ -87,7 +87,7 @@ body {
 
 .circle {
   position: absolute;
-  top: 84px;
+  top: 62px;
   left: calc(50% - 60px);
 }
 
@@ -102,7 +102,7 @@ body {
 }
 
 .card:hover p {
-  transform: translate(20px, -30px);
+  transform: translate(20px, -22px);
 }
 
 .circle p a {
