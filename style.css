@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 body {
   background-color: #0f0f1b;
+  font-family: 'Exo', sans-serif;
 }
 
 .container {
